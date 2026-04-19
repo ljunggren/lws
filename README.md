@@ -5,6 +5,7 @@ Grounded career planning for Wensheng, Core Architect of Boozang.
 ## What's here
 
 - [`interview-guide.md`](./interview-guide.md) — **start here.** 90-minute structured interview to pick a career direction in the LLM-era software dev market. Six paths with upskilling specifics, a 1–5 rating baseline, and a decision matrix.
+- [`mats-profile.md`](./mats-profile.md) — Mats rated on the same 1–5 framework, with an added "what I've done to close the gap" column. Shared for fairness and to show the profiles are complementary.
 - [`career-advice.md`](./career-advice.md) — strategic memo (Mats's read): superpowers, growth edges, 12-month moves
 - [`goals/`](./goals) — 3/12/36-month goals, seeded from the memo (to be rewritten after the interview picks a path)
 - [`skills/`](./skills) — skills inventory grounded in the `bz` codebase
