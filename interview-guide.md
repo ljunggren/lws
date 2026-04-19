@@ -4,7 +4,41 @@
 
 ---
 
-## 0. How to use this guide
+## Start here — 5 questions, ~10 minutes
+
+**Don't read the rest of this guide yet.** Answer these five questions first. The rest of the doc is Mats's analysis and options — it'll land better after you've already said what you think.
+
+### How to run it in Claude
+
+```bash
+cd lws && claude
+```
+
+Then paste this prompt (Chinese or English — Claude will match your language):
+
+> 请一次问我一个问题，等我回答后再问下一个。不要总结我的回答，不要讲课。追问一次不清楚的地方，然后进行下一题。五个问题结束后，简短告诉我你听到了什么，但不要给建议。
+>
+> *Or in English: Ask me one question at a time. Wait for my answer. Don't summarize or lecture. Follow up once if my answer is unclear, then move on. After the five, tell me briefly what you heard — no advice yet.*
+
+### The 5 questions
+
+1. **What work in the last 12 months made you lose track of time?** (Shipping `ai-new`? A production fire? A refactor? Teaching someone?)
+2. **When you use an LLM on the Boozang codebase, does it help or get in the way? Why?**
+3. **Your custom framework (CtrlDriver, logService, appBuilder) is genuinely great — and it's also the thing LLMs struggle most to work with.** If you were starting Boozang today, would you build on top of your framework, or on top of React + Vercel AI SDK? Why?
+4. **Do you want your day-to-day to include more AI, less, or the same?**
+5. **Stable salary + benefits, or equity upside + variance?** Employed at a company, or independent?
+
+### After the 5
+
+Skim **§3 (the six career paths)** only. Your answers above will narrow it to 1–2 candidates automatically. Pick a tentative one.
+
+Only if you want deeper calibration after that, continue to §2 (where Mats rated you on 10 dimensions with evidence), §1 (DORA 2025 market brief), and §4 (the full 22 questions). None of it is required. The 5 questions + one path choice is enough to act on.
+
+You can also read `mats-profile.md` in this repo — Mats rated himself on the same framework, including what he's done to close his own gaps. Fairness cuts both ways.
+
+---
+
+## 0. How to use the full guide (optional)
 
 Run this as a 90-minute conversation (or solo reflection). Five parts:
 
